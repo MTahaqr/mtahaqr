@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Taha Qadri Rizvi</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
 <h3 align="center">Experienced Full Stack Developer From Pakistan</h3>
 
 <p align="left"> <a href="mailto:tahaqr28@gmail.com"><img src="https://img.shields.io/badge/Email-tahaqr28%40gmail.com-blue" alt="Email" /></a>
